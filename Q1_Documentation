@@ -1,0 +1,5 @@
+Step 1 - First we will install nginx in our linux system using below commands - 
+
+$ sudo apt update
+$ sudo apt install nginx
+
